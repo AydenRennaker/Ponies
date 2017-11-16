@@ -1,0 +1,23 @@
+{
+  "name": "ponies",
+  "version": "0.0.1",
+  "description": "Used to track nicehash mining data",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydenRennaker/Ponies.git"
+  },
+  "author": "Ayden Rennaker, John Joseph Stevens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AydenRennaker/Ponies/issues"
+  },
+  "homepage": "https://github.com/AydenRennaker/Ponies#readme"
+}
